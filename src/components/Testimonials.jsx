@@ -1,7 +1,7 @@
 export default function Testimonials() {
   const reviews = [
-    { name: "Alice R.", role: "IT Manager", company: "TechNova" },
-    { name: "Mark L.", role: "Procurement Lead", company: "InnoWare" },
+    { name: "Sanjay K", role: "IT Manager", company: "Credex" },
+    { name: "Thalapathy", role: "Procurement Lead", company: "TVKampany" },
   ];
 
   return (
